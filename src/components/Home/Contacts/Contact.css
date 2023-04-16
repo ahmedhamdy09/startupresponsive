@@ -1,0 +1,98 @@
+.touch {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.touch p {
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+
+.explains {
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.explains span.h3 {
+    font-weight: bold;
+    font-size: 14px;
+    padding: 2px;
+    margin: 2px;
+}
+
+.explains span.pa {
+    color: #95a0ab;
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.locatins {
+    width: 50%;
+}
+
+.formulaa {
+    flex: 1;
+}
+
+form {
+    padding: 5px;
+    margin: 5px;
+}
+
+.form-name {
+    width: 45%;
+    margin-bottom: 15px;
+    height: 50px;
+    padding-left: 20px;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    box-shadow: none !important;
+}
+
+.form-mail {
+    width: 45%;
+    margin: 5px;
+    margin-bottom: 15px;
+    height: 50px;
+    padding-left: 20px;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    box-shadow: none !important;
+}
+
+.form-subject {
+    width: 90%;
+    height: 50px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    box-shadow: none !important;
+}
+
+.form-area {
+    width: 90%;
+    height: auto;
+    padding-top: 13.5px;
+    box-shadow: none !important;
+}
+
+
+button.btn {
+    background-color: #fb3e3e;
+    border: 1px solid #fb3e3e;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 15px 0px;
+}

@@ -1,0 +1,19 @@
+.row h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 8px;
+}
+
+.row p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 8px;
+}
+
+.cards-container {
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+}

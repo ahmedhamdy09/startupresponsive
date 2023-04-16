@@ -1,0 +1,121 @@
+.services {
+    margin-top: 60px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 25px 0px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.services .row {
+    margin: 25px 0px;
+}
+
+.services h2 {
+    color: #000;
+    font-size: 30px;
+    margin: 15px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.services p {
+    color: #777;
+    font-size: 15px;
+    line-height: 30px;
+    margin: 20px 0px;
+}
+
+.services .box {
+    width: 100%;
+    max-width: 100%;
+    background-color: transparent;
+    height: auto;
+    padding: 5px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.services .box svg {
+    color: #fb3e3e;
+    font-size: 32px;
+    height: 68px;
+    width: 68px;
+    background-color: #fff;
+    border-radius: 50%;
+    -webkit-box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1) !important;
+    box-shadow: 0 0 1.25rem rgba(108, 118, 134, .1) !important;
+    line-height: 68px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.services .box svg:hover {
+    background-color: #fb3e3e;
+    color: #fff;
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    padding: 10px;
+    transition: 0.3s ease-in;
+}
+
+.services .box h3 {
+    color: #212121;
+    font-weight: bold;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: 12px 0px;
+}
+
+.services .box p {
+    color: #777;
+    font-size: 17px;
+    margin: 15px 0px;
+}
+
+
+.services .last {
+    margin-top: 40px;
+    text-align: left;
+}
+
+.services .last h3 {
+    color: #000;
+    font-size: 26px;
+    line-height: 40px;
+    width: 60%;
+    font-weight: bold;
+}
+
+.services .last p {
+    color: #7c848b;
+    font-size: 16px;
+    margin: 15px 0px;
+    width: 100%;
+}
+
+.services .last ul {
+    padding: 0px;
+    margin: 20px;
+}
+
+.services .last ul li {
+    list-style-type: disc;
+    margin: 10px 0;
+    color: #333;
+    font-size: 16px;
+}
+
+.services .last button {
+    background-color: #fb3e3e;
+    border: 1px solid #fb3e3e;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    color: #fff;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 15px 0px;
+}
